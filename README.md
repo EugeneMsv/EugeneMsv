@@ -1,7 +1,8 @@
-### Hi there 👋. My name is Eugene.
-<h3 align="left">Backend developer from Seattle </h3>
+### Hi there 👋 
+### My name is Eugene
+<h3 align="left">I'm a backend developer from the greater Seattle area</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eugene-msv&color=blueviolet" alt="katherinafed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eugene-msv&color=blueviolet" /> </p>
  
 
 ### 🤝 Let's stay connected:
