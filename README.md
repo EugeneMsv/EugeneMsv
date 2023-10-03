@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋. My name is Eugene.
+<h3 align="left">Backend developer from Seattle </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eugene-msv&color=blueviolet" alt="katherinafed" /> </p>
+ 
+
+### 🤝 Let's stay connected:
+<p align="left">
+<a href="mailto:msv.eug@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:msv.eug@gmail.com"  />
+<a href="https://www.linkedin.com/in/eug-msv/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+
 
 <!--
 **EugeneMsv/EugeneMsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
