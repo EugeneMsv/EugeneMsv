@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is Eugene
+### My name is Eugene (Evgenii)
 <h3 align="left">I'm a backend developer from the greater Seattle area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eugene-msv&color=blueviolet" /> </p>
